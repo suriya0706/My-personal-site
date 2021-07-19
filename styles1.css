@@ -10,7 +10,6 @@ body {
 ::-webkit-scrollbar {
     display: none;
 }
-
 .fixed {
     text-align:right;
     position:sticky;
@@ -22,7 +21,6 @@ body {
     height:50px;
     z-index:1;
 }
-
 .nav {
     margin-top:10px;
 }
